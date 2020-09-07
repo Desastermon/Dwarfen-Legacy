@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "dwarfen_legacy:block/dwarfen_furnace_top_on",
+    "front": "dwarfen_legacy:block/dwarfen_furnace_front_on",
+    "side": "dwarfen_legacy:block/dwarfen_furnace_side",
+    "bottom": "dwarfen_legacy:block/dwarfen_furnace_bottom"
+  }
+}

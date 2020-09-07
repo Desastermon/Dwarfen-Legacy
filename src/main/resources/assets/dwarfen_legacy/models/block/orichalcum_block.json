@@ -1,0 +1,6 @@
+{
+	"parent" : "minecraft:block/cube_all",
+	"textures" : {
+		"all" : "dwarfen_legacy:block/orichalcum_block"
+	}
+}

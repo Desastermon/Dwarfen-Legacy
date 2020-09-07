@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"MMM",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "S": {
+			"item": "minecraft:stick"
+        },
+        "M": {
+			"item": "dwarfen_legacy:mithril_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:mithril_pickaxe",
+		"count": 1
+	}
+}
+

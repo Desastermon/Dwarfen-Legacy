@@ -1,35 +1,36 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "dwarfen_legacy",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Dwarfen Legacy",
+  "description": "Hey I'm a dwarf and I'm digging a hole.",
   "authors": [
-    "Me!"
+    "Desastermon"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "",
+    "sources": "https://github.com/Desastermon/Dwarfen-Legacy"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPLv3",
+  "icon": "assets/dwarfen_legacy/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
-    ]
+      "desastermon.dwarfen_legacy.DwarfenLegacy"
+    ],
+	"client": [
+		"desastermon.dwarfen_legacy.DwarfenLegacyClient"
+	]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.16.x",
+    "doomedfabric":">=1.1.0"
   },
   "suggests": {
     "flamingo": "*"

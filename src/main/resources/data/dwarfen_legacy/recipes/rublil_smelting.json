@@ -1,0 +1,10 @@
+{
+	"type":"dwarfen_legacy:custom_furnace",
+	"ingredient":{
+		"item":"dwarfen_legacy:rublil_mixture"
+	},
+	"count":3,
+	"resultCount":2,
+	"result":"dwarfen_legacy:clump_of_rublil",
+	"experience":0.8
+}

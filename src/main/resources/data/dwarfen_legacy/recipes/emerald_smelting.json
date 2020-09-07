@@ -1,0 +1,10 @@
+{
+	"type":"dwarfen_legacy:custom_furnace",
+	"ingredient":{
+		"item":"minecraft:emerald_ore"
+	},
+	"count":1,
+	"resultCount":1,
+	"result":"minecraft:emerald",
+	"experience":0.8
+}

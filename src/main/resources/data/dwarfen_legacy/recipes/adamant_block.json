@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+			"item": "dwarfen_legacy:adamant_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:adamant_block",
+		"count": 1
+	}
+}
+

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"AAA",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "S": {
+			"item": "minecraft:stick"
+        },
+        "A": {
+			"item": "dwarfen_legacy:adamant_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:adamant_pickaxe",
+		"count": 1
+	}
+}
+

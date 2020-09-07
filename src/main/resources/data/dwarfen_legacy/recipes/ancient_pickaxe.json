@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"DRE",
+        "OBM",
+        "#AI"
+    ],
+    "key": {
+        "D": {
+			"item": "minecraft:diamond"
+        },
+        "R": {
+			"item": "dwarfen_legacy:rublil_ingot"
+        },
+        "E": {
+			"item": "minecraft:emerald"
+        },
+        "O": {
+			"item": "dwarfen_legacy:orichalcum_ingot"
+        },
+        "B": {
+			"item": "dwarfen_legacy:broken_pickaxe"
+        },
+        "M": {
+			"item": "dwarfen_legacy:mithril_ingot"
+        },
+        "#": {
+			"item": "minecraft:netherite_ingot"
+        },
+        "A": {
+			"item": "dwarfen_legacy:adamant_ingot"
+        },
+        "I": {
+			"item": "minecraft:iron_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:ancient_pickaxe",
+		"count": 1
+	}
+}
+

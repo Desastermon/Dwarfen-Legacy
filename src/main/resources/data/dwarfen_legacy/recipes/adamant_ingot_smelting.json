@@ -1,0 +1,10 @@
+{
+	"type":"dwarfen_legacy:custom_furnace",
+	"ingredient":{
+		"item":"dwarfen_legacy:adamant_ore"
+	},
+	"count":1,
+	"resultCount":1,
+	"result":"dwarfen_legacy:adamant_ingot",
+	"experience":0.8
+}

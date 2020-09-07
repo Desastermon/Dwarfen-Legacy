@@ -1,0 +1,12 @@
+{
+	"replace" : false,
+	"values" : [
+		"dwarfen_legacy:ruby_pickaxe",
+		"dwarfen_legacy:rublil_pickaxe",
+		"dwarfen_legacy:orichalcum_pickaxe",
+		"dwarfen_legacy:mithril_pickaxe",
+		"dwarfen_legacy:adamant_pickaxe",
+		"dwarfen_legacy:broken_pickaxe",
+		"dwarfen_legacy:ancient_pickaxe"
+	]
+}

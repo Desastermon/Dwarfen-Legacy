@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"RRR",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "S": {
+			"item": "minecraft:stick"
+        },
+        "R": {
+			"item": "dwarfen_legacy:rublil_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:rublil_pickaxe",
+		"count": 1
+	}
+}
+

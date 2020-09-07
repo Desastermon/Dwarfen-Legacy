@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"GGG",
+        "G#G",
+        "GGG"
+    ],
+    "key": {
+        "#": {
+			"item": "dwarfen_legacy:orichalcum_ingot"
+        },
+        "G": {
+			"item": "minecraft:glass"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:orichalcum_glass",
+		"count": 8
+	}
+}
+

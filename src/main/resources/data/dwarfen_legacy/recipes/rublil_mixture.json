@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"GRG",
+        "RGR",
+        "GRG"
+    ],
+    "key": {
+        "G": {
+			"item": "minecraft:gold_ingot"
+        },
+        "R": {
+			"item": "dwarfen_legacy:ruby"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:rublil_mixture",
+		"count": 2
+	}
+}
+

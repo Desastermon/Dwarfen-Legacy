@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+		"OOO",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "S": {
+			"item": "minecraft:stick"
+        },
+        "O": {
+			"item": "dwarfen_legacy:orichalcum_ingot"
+        }
+    },
+	"result": {
+		"item": "dwarfen_legacy:orichalcum_pickaxe",
+		"count": 1
+	}
+}
+
